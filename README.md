@@ -4,7 +4,7 @@ Programmet er rimelig enkelt, det plusser to tal sammen og giver en sum tilbage
 # Installationsvejledning for script-exercise
 **Klon repo i din terminal** 
 ```python
-git clone https://github.com/nathasjafink/linux-exercise
+git clone https://github.com/nathasjafink/linux-exercise.git
 ```
 
 **Navigere ind i mappen**
